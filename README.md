@@ -34,7 +34,7 @@
     <li>Set up the database:
         <ul>
             <li>Ensure MySQL is installed and running.</li>
-            <li>Create a database named <code>cricket_management</code> and import the provided SQL script to set up the tables.</li>
+            <li>Create a database named <code>cricket_management</code> and also create the necessary tables for the database.</li>
         </ul>
     </li>
     <li>Install the necessary dependencies:
