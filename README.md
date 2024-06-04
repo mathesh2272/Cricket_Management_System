@@ -26,7 +26,7 @@
 <h2 id="installation">Installation</h2>
 <ol>
     <li>Clone the repository:
-        <pre><code>git clone https://github.com/yourusername/CricketManagementSystem.git</code></pre>
+        <pre><code>git clone https://github.com/mathesh2272/CricketManagementSystem.git</code></pre>
     </li>
     <li>Navigate to the project directory:
         <pre><code>cd CricketManagementSystem</code></pre>
