@@ -46,8 +46,8 @@
 </ol>
 
 <h2 id="usage">Usage</h2>
-<p>To run the application, execute the main class in Eclipse or use the command line:</p>
-<pre><code>java -cp .;path\to\mysql-connector-java-x.x.xx.jar com.yourpackage.Main</code></pre>
+<p>To run the application, execute the main class in Eclipse</p>
+<!-- <pre><code>java -cp .;path\to\mysql-connector-java-x.x.xx.jar com.yourpackage.Main</code></pre> -->
 
 <h3>Admin Login</h3>
 <ul>
